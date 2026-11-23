@@ -1,0 +1,18 @@
+# Library versions should be pinned after validation in a fresh Colab runtime.
+accelerate
+datasets
+kaleido
+lime
+matplotlib
+nltk
+nlpaug
+numpy
+pandas
+plotly
+scikit-learn
+scipy
+seaborn
+shap
+torch
+transformers
+wordcloud
